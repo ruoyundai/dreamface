@@ -1,0 +1,5 @@
+{
+  "name": "Wink Trail Cursor",
+  "description": "A high-performance interactive UI feature where a cute winking square follows the mouse cursor with a smooth, translucent trail effect.",
+  "requestFramePermissions": []
+}
